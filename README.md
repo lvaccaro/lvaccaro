@@ -6,3 +6,4 @@ Just a ₿ tech.
 
 Tip me at https://btctip.lvaccaro.com or 27jkdox6lxh24clhbowhij3yymhisyqdpo54xqr26n7lb4bhjs677bqd.onion
 
+![address](https://btctip.lvaccaro.com/bitcoin/api/last_unused_qr.bmp)
