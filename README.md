@@ -1,21 +1,21 @@
 ### Hi there 👋
 I am luca.
-Just a ₿ tech.
 
-```rust
-[package]
-name = "My home"
-version = "0.0.0-dev"
-authors = ["Luca Vaccaro <me@lvaccaro.com>"]
-edition = "2021"
-description = "Just a ₿ tech."
-homepage = "https://lvaccaro.com"
-repository = "https://github.com/lvaccaro"
-documentation = "https://twitter.com/0xvaccaro"
-keywords = ["bitcoin", "green", "blockstream", "opentimestamps"]
-metadata = "LEAVE ME HERE"
+Just a ₿ tech and a libertarian dad.
 
-```
-Tip me at https://btctip.lvaccaro.com or 27jkdox6lxh24clhbowhij3yymhisyqdpo54xqr26n7lb4bhjs677bqd.onion
 
-![address](https://btctip.lvaccaro.com/bitcoin/api/last_unused_qr.bmp)
+Software Enginner at [Blockstream](https://blockstream.com) .
+
+[![Twitter: 0xvaccaro](https://img.shields.io/twitter/follow/0xvaccaro)](https://twitter.com/0xvaccaro)
+[![GitHub lvaccaro](https://img.shields.io/github/followers/lvaccaro)](https://github.com/lvaccaro)
+
+- My email `me[at]lvaccaro.com`
+- Twitter handle `0xvaccaro`
+- My PGP fingerprint: `71A3 B167 3540 5025 D447  E8F2 7481 0B01 2346 C9A6`
+
+<hr/>
+
+Links and resources:
+
+- [Enciclopedia](https://github.com/lvaccaro/enciclopedia) of liquid assets - web : https://enciclopedia.lvaccaro.com
+- [Btc Tip Server](https://github.com/lvaccaro/btctipserver) Bitcoin/Liquid/Lightning tip server : https://btctip.lvaccaro.com
