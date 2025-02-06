@@ -10,7 +10,7 @@ Software Enginner at [Blockstream](https://blockstream.com) .
 [![GitHub lvaccaro](https://img.shields.io/github/followers/lvaccaro)](https://github.com/lvaccaro)
 
 - My email `me[at]lvaccaro.com`
-- Twitter handle `0xvaccaro`
+- Twitter handle `vaccarobtc`
 - My PGP fingerprint: `71A3 B167 3540 5025 D447  E8F2 7481 0B01 2346 C9A6`
 
 <hr/>
